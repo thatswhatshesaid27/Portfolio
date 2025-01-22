@@ -60,6 +60,16 @@ export const PROJECTS = [
     imgSrc: project4,
     link: "https://github.com/thatswhatshesaid27/TODO",
   },
+
+  {
+    id: 4,
+    title: "Portfolio",
+    description:
+      "A fast, responsive React portfolio built with Vite and styled using Tailwind CSS, showcasing projects and skills with a clean, modern design",
+    imgSrc: project5,
+    link: "https://github.com/thatswhatshesaid27/Portfolio",
+  },
+ 
  
 ];
 
