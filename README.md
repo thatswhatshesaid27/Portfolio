@@ -20,4 +20,7 @@ This repository houses my personal portfolio website, built using a combination 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/thatswhatshesaid27/Portfolio)
+
+   cd https://github.com/thatswhatshesaid27/Portfolio
+   npm install
